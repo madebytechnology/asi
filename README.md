@@ -64,7 +64,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Stenka, Dominik.
 1. Sulich, Bartłomiej.
 1. Synowczyk, Piotr.
-1. Szklarska, Milena.
+1. [Szklarska, Milena](https://github.com/madebytechnology/Gists) [#1](http://mygistsapp.herokuapp.com).
 1. Szynkaruk, Kamil.
 1. Wittbrodt, Łukasz.
 2. [Zając, Mateusz](https://github.com/zajacmp3/RubyOnRails-Informatyka-). [#2](http://horoku-test-todo-list-app.herokuapp.com).
