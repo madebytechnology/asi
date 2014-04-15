@@ -51,6 +51,7 @@ Zespoły:
 Indywidualiści:
 
 1. [Leyk, Szymon](https://github.com/leyas/rails-exam)
+1. ['redcarpet'](https://github.com/madebytechnology/RailsAppExam)
 
 Ścieżka raz, dwa, trzy…?
 
